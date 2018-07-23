@@ -1,4 +1,4 @@
-# liri-node-app
+# Liri Bot
 
 Week 10 (LIRI Bot) Assignment
 
