@@ -14,7 +14,7 @@ Created during Week 10 of GW Coding Bootcamp. The challenge was to use Node JS t
 
 ## Getting Started
 
-- Clone down repo.
+- Clone or download repository.
 - Run command 'npm install' in Terminal or GitBash
 - Run command 'node liri.js' or one of the commands below.
 
